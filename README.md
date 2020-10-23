@@ -7,7 +7,7 @@ self complement of templated based causality event extraction 基于因果关系
 
 # 技术路线
 因果事件图谱技术流程上遵循以下流程：    
-![image](https://github.com/liuhuanyong/CausalityEventGraph/blob/master/image/schema.jpg)
+![image](https://github.com/SmartCommunitySZ/CausalityEventGraph/blob/master/image/schema.jpg)
 
 主要包括以下几个步骤：  
 1、因果知识库的构建。因果知识库的构建包括因果连词库，结果词库、因果模式库等。  
@@ -22,25 +22,16 @@ self complement of templated based causality event extraction 基于因果关系
 接下来以以下几个事件在因果知识库中查询一把：
 以上几个图展示了输入既定事件在数据库中相似的事件（一度），相似事件导致的结果（二度节点）。
 # 范冰冰偷税漏税事件
-![image](https://github.com/liuhuanyong/CausalityEventGraph/blob/master/image/fangbingbing.png)
+![image](https://github.com/SmartCommunitySZ/CausalityEventGraph/blob/master/image/fangbingbing.png)
 
 # 美国攻打伊拉克事件
-![image](https://github.com/liuhuanyong/CausalityEventGraph/blob/master/image/gongda.png)
+![image](https://github.com/SmartCommunitySZ/CausalityEventGraph/blob/master/image/gongda.png)
 
 # 寿光发生洪水事件
-![image](https://github.com/liuhuanyong/CausalityEventGraph/blob/master/image/shouguang.png)
+![image](https://github.com/SmartCommunitySZ/CausalityEventGraph/blob/master/image/shouguang.png)
 
 # 总结
 1）基于规则这套，很实用，但问题不少，规则维护比较多  
 2）事件表示这块一定要好好想想啊  
 3）事件融合这块，利用各种相似度度量进行计算，都有一定缺陷  
 
-# question?
-send mail to lhy_in_blcu@126.com  
-If any question about the project or me ,see https://liuhuanyong.github.io/
-
-# contact?
-如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，可联系我：    
-1、我的github项目介绍：https://liuhuanyong.github.io  
-2、我的csdn博客：https://blog.csdn.net/lhy2014  
-3、about me:刘焕勇，中国科学院软件研究所，lhy_in_blcu@126.com  
